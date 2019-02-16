@@ -1,0 +1,13 @@
+This upload is the result of a small group coming together to build a website. The tools used to create this site were SQL for database management and Eclipse as an IDE.
+FILE OVERVIEW:
+	JSPs which are the files used to created every page on the site
+	.java files which we used as essential connections between webpage and SQL databases
+	war file which is the file used to present the website though AWS
+	
+WEBSITE OVERVIEW:
+	The site is capable of creating, holding, and deleting user accounts
+		Deletion and other tasks are reserved for admin accounts which are created manually
+	Users can post on the site an item they are wishing to sell for a user specified starting bid and auction end time. Once the user is finished, they can post their item online for anybody to see.
+	Users can search for specific item types, item names, or item key words.
+	
+For information about the people who partook in the creation of this project, email me personally at Nkolotov16@gmail.com
